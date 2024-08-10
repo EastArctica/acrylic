@@ -1,0 +1,6 @@
+{
+    "name": "Acrylic",
+    "id": "acrylic",
+    "dependencies": [],
+    "description": "Force the acrylic effect to trigger on any electron app."
+}
