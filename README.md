@@ -8,7 +8,7 @@
 ## Installation
 To install Acrylic, follow these steps:
 
-1. Download kernel from [kernel.fish](kernel.fish) and follow the setup instructions.
+1. Download [kernel](https://kernel.fish) and follow the setup instructions.
 2. Navigate to your kernel packages directory
 3. `$ git clone https://github.com/EastArctica/acrylic`
 4. Profit?
